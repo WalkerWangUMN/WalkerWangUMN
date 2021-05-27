@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - :office: I'm currently working at [Wish](https://wish.com) as Full Stack Developer
 - :gem: I worked as Software Engineer Intern at [Target](https://www.target.com/) and [Grab](https://www.grab.com/sg/) during undergraduate years
 - 👨‍🎓 I will be joining [Department of Computer Science](https://cs.illinois.edu/) at University of Illinois at Urbana-Champaign as a ***Master of Computer Science*** student next Fall
-- :school: I'm holding ***Bachelor of Science in Computer Science*** degree from [Computer Science and Engineering Department](https://cse.umn.edu/cs) at University of Minnesota Twin Cities
+- :school: I'm holding ***Bachelor of Science in Computer Science*** degree from [Department of Computer Science and Engineering](https://cse.umn.edu/cs) at University of Minnesota Twin Cities
 - :mailbox: How to reach me: <a href='mailto:wzy0794@gmail.com'>wzy0794@gmail.com</a>
 - :pencil: [LinkedIn](https://www.linkedin.com/in/zy-w) | [Resume](https://drive.google.com/file/d/1ymjADBb_LOfp6qCnqXFb0_9htO5tCnEa/view?usp=sharing) 
 ---
