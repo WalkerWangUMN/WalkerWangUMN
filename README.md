@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 - :office: I'm currently working at [Wish](https://wish.com) as Full Stack Software Engineer
 - :gem: I worked as Software Engineer Intern at [Target](https://www.target.com/) and [Grab](https://www.grab.com/sg/) during undergraduate years
-- 👨‍🎓 I will be joining [Department of Computer Science](https://cs.illinois.edu/) at University of Illinois at Urbana-Champaign as a ***Master of Computer Science*** student next Fall
-- :school: I'm holding ***Bachelor of Science in Computer Science*** degree from [Department of Computer Science and Engineering](https://cse.umn.edu/cs) at University of Minnesota Twin Cities
+- 👨‍🎓 I will be joining [Department of Computer Science](https://www.cs.cornell.edu/) at Cornell University as a ***Master of Engineering*** student this August
+- :school: I'm holding ***Bachelor of Science in Computer Science*** degree from [Department of Computer Science and Engineering](https://cse.umn.edu/cs) at University of Minnesota, Twin Cities
 - :mailbox: How to reach me: <a href='mailto:zhaoyu.wang1999@gmail.com'>zhaoyu.wang1999@gmail.com</a>
 - :pencil: [LinkedIn](https://www.linkedin.com/in/zy-w) | [Resume](https://drive.google.com/file/d/1iFp1MWBBk0WX8FQFUNxBLspsLs_2y9Qx/view?usp=sharing) 
 ---
