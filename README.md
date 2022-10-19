@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 <br />
 
-- :office: I worked at [Booking.com](https://www.booking.com/) and [Wish](https://wish.com) as Infrastructure and Full Stack Engineer before
-- :gem: I also interned as Software Engineer Intern at [Target](https://www.target.com/) and [Grab](https://www.grab.com/sg/) during undergraduate years
-- 👨‍🎓 I am currently a ***Master of Engineering*** CS student concentrating on Systems track from [Department of Computer Science](https://www.cs.cornell.edu/) at Cornell University 
+- 👨‍🎓 I'm currently a ***Master of Engineering*** CS student concentrating on Systems track from [Department of Computer Science](https://www.cs.cornell.edu/) at Cornell University 
+- :office: I worked at [Booking.com](https://www.booking.com/) and [Wish](https://wish.com) as Infrastructure and Full Stack Engineer before joining Cornell
+- :gem: I also interned as Software Engineer Intern at [Wish](https://wish.com), [Target](https://www.target.com/) and [Grab](https://www.grab.com/sg/) during undergraduate years
 - :school: I'm holding ***Bachelor of Science in Computer Science*** degree from [Department of Computer Science and Engineering](https://cse.umn.edu/cs) at University of Minnesota, Twin Cities
-- :mailbox: How to reach me: <a href='mailto:zhaoyu.wang1999@gmail.com'>zhaoyu.wang1999@gmail.com</a>
+- :mailbox: How to reach me: <a href='mailto:zhaoyu.wang.cs@gmail.com'>zhaoyu.wang.cs@gmail.com</a>
 - :pencil: [LinkedIn](https://www.linkedin.com/in/zy-w) | [Resume](https://drive.google.com/file/d/1iFp1MWBBk0WX8FQFUNxBLspsLs_2y9Qx/view?usp=sharing) 
 ---
 
