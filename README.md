@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - :gem: I also interned as Software Engineer Intern at [Wish](https://wish.com), [Target](https://www.target.com/) and [Grab](https://www.grab.com/sg/) during undergraduate years
 - :school: I'm holding ***Bachelor of Science in Computer Science*** degree from [Department of Computer Science and Engineering](https://cse.umn.edu/cs) at University of Minnesota, Twin Cities
 - :mailbox: How to reach me: <a href='mailto:zhaoyu.wang.cs@gmail.com'>zhaoyu.wang.cs@gmail.com</a>
-- :pencil: [LinkedIn](https://www.linkedin.com/in/zy-w) | [Resume](https://drive.google.com/file/d/1iFp1MWBBk0WX8FQFUNxBLspsLs_2y9Qx/view?usp=sharing) 
+- :pencil: [LinkedIn](https://www.linkedin.com/in/zy-w) | [Resume](https://drive.google.com/file/d/1JlNQXy94WOzj7LDd2_oBuaqqpft-OIFR/view?usp=sharing) 
 ---
 
 ### Languages and Tools I use:
